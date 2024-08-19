@@ -34,7 +34,7 @@ Estimated the intrinsic value of Skechers' stock and compared it with market pri
 
   - Monitored the daily and weekly price movements of Skechers' stock.
   - Compared Skechers' performance with the S&P 500 index to evaluate its relative market performance.
-  - 
+    
 ### 📊 Skills Demonstrated:
 
   - Financial modeling and forecasting
